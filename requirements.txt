@@ -1,6 +1,0 @@
-plotly
-plotly.express
-pandas 
-streamlit
-streamlit_option_menu 
-
